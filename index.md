@@ -1,26 +1,6 @@
 <!DOCTYPE html>
-<html>
-<head>
-<style>
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-}
 
-li {
-  float: left;
-}
-
-li a {
-  display: block;
-  padding: 30px;
-  background-color: #F7DAF5;
-}
-</style>
-</head>
-<body>
+<h1>A Jocoserious attempt at blogging</h1>
 
 <ul>
   <li><a href="#home">Home</a></li>
