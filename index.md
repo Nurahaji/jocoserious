@@ -7,6 +7,9 @@
 
   <li><a href="#diaries">Diaries</a></li>
 
+<title>Nura Haji</title>
+<description>Nura is a lover of literature and enjoys sporadically writing about all things life related.</description>
+
 
 ## A Jocoserious attempt at blogging
 
