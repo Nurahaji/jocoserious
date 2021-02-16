@@ -11,7 +11,10 @@
 
 </body>
 </html>
-
+<section id="#home">
+  
+  <h2>Nostos</h2>
+  
 I first came across the word 'jocoseriousness' in December of 2019 when a Professor of mine had used it to remark on my awareness of voices in James Joyce's Ulysses: "you seem to have perfectly understood the logic of this novel's jocoseriousness, how even when things appear funny or quirky, there's often an ethical, political or philosophical conclusion to draw". Though my life experiences are not similar to the plot of a a novel as such, there are paralells to draw from moments, experiences and instances which appear on face value jocular, that like Joyce's epic, are indeed profound. 
 
 Stepping aside and away from the context of Joyce, whom I have grown to love, I think the notion of things, people and ideas being 'jocoserious' is one that is fruitful. It also captures the essense of my own being. I am jocoserious - both serious and jocular - in every aspect of the word. Perhaps it's the unwanted (of course, natural) transition from being a teenager to now, an adult with adult-like responsibilities that has made me oxymoronically jocoserious. 
