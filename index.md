@@ -4,12 +4,13 @@
 
 <ul>
   <li><a href="#home">Home</a></li>
-  <li><a href="#news">Poetry</a></li>
-  <li><a href="#contact">Essays</a></li>
-  <li><a href="#about">Getting Real</a></li>
+  <li><a href="#poetry">Poetry</a></li>
+  <li><a href="#essays">Essays</a></li>
+  <li><a href="#getting real">Getting Real</a></li>
 </ul>
 
 </body>
+<li><a href="#home">Home</a></li>
 </html>
 
 I first came across the word 'jocoseriousness' in December of 2019 when a Professor of mine had used it to remark on my awareness of voices in James Joyce's Ulysses: "you seem to have perfectly understood the logic of this novel's jocoseriousness, how even when things appear funny or quirky, there's often an ethical, political or philosophical conclusion to draw". Though my life experiences are not similar to the plot of a a novel as such, there are paralells to draw from moments, experiences and instances which appear on face value jocular, that like Joyce's epic, are indeed profound. 
