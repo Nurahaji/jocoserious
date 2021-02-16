@@ -1,6 +1,4 @@
 <!DOCTYPE html>
-<li><a href="#home">Home</a></li>
-
 
 <h1>A Jocoserious attempt at blogging</h1>
 
