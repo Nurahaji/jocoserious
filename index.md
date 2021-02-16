@@ -1,3 +1,54 @@
+<style>
+      ul {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          overflow: hidden;
+          background-color: #F4C9F1;
+      }
+
+      li {
+          float: left;
+      }
+
+      li a {
+          display: block;
+          color: black;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+      }
+
+      li a:hover {
+          color: white;
+          background-color: #555;
+      }
+
+      section {
+          /* adjust these values for spacing around writings */
+          padding-top: 20px;
+          padding-right: 40%;
+          padding-left: 20px;
+          padding-bottom: 20px;
+
+          /* these values are spacing above/below each section tag on the page */
+          margin-top: 20px;
+          margin-bottom: 20px;
+
+          /* adds a line under each section tag */
+          border-bottom: solid 1px #000;
+      }
+
+  </style>
+</head>
+
+<body>
+<h1>A collection of poems and fiction by N.H.</h1>
+<hr>
+
+<ul id="">
+
+
   <li><a href="#welcome">Welcome</a></li>
 
   <li><a href="#poetry">Poetry</a></li>
@@ -6,10 +57,7 @@
   <li><a href="#Essays">Essays</a></li>
 
   <li><a href="#diaries">Diaries</a></li>
-
-<title>Nura Haji</title>
-<description>Nura is a lover of literature and enjoys sporadically writing about all things life related.</description>
-
+</ul>
 
 ## A Jocoserious attempt at blogging
 
